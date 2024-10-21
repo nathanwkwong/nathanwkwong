@@ -1,16 +1,13 @@
-## Hi there 👋
+I'm an experienced Frontend Developer with 4 years of web development experience in a modern JavaScript/TypeScript stack. I'm proficient in React.js, Next.js, React Native and Node.js. I have worked on projects of varying scales, collaborated with diverse teams, and delivered web applications with high user satisfaction and positive business impact.
 
-<!--
-**nathanwkwong/nathanwkwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love coding, embracing technical challenges, and developing working and scalable systems/engines by leveraging technologies. I devote my professional life to software engineering and development by continuously learning and converting knowledge from lessons into practice and delivery. 
 
-Here are some ideas to get you started:
+💻 Programming Languages: JavaScript, TypeScript, HTML5, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools: React.js, Next.js, React Query, Redux, StoryBook, Vue, Bootstrap, Webpack, MUI, React Native, Node.js, Express.js, TypeORM, GraphQL, RESTful APIs, PostgreSQL, Docker, Jira, Git, Nginx, Jenkins, Webpack, Babel, SASS/LESS, Cypress, Playwright, Jest, React Testing Library, WebSocket
+
+☁️ Cloud: AWS (Lambda, S3, EC2, RDS, CloudFront), CI/CD
+
+📊 Methodologies: SCRUM, Agile, MVC Architecture
+
+🌐 Interests: Web Technologies, Web Performance, Frontend Development, Full-stack Development, UX, reading, running, Mindfulness practice
