@@ -10,4 +10,4 @@ I love coding, embracing technical challenges, and developing working and scalab
 
 📊 Methodologies: SCRUM, Agile, MVC Architecture
 
-🌐 Interests: Web Technologies, Web Performance, Frontend Development, Full-stack Development, UX, reading, running, Mindfulness practice
+🌐 Interests: Web Technologies, Web Performance, Frontend Development, Full-stack Development, UX, critical thinking, reading, running, Mindfulness practice
