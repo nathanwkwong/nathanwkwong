@@ -11,3 +11,6 @@ I love coding, embracing technical challenges, and developing working and scalab
 📊 Methodologies: SCRUM, Agile, MVC Architecture
 
 🌐 Interests: Web Technologies, Web Performance, Frontend Development, Full-stack Development, UX, critical thinking, reading, running, mindfulness practice
+
+
+My writing: https://medium.com/@wkwong.nathan
