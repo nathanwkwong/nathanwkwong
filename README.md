@@ -13,4 +13,6 @@ I love coding, embracing technical challenges, and developing working and scalab
 🌐 Interests: Web Technologies, Web Performance, Frontend Development, Full-stack Development, UX, critical thinking, reading, running, mindfulness practice
 
 
-My writing: https://medium.com/@wkwong.nathan
+GitHub: https://github.com/nathanwkwong
+Global Game Jam Profile: https://globalgamejam.org/users/nathanw
+Technical Writing on Medium: https://medium.com/@wkwong.nathan
