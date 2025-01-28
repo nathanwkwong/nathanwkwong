@@ -14,5 +14,7 @@ I love coding, embracing technical challenges, and developing working and scalab
 
 
 GitHub: https://github.com/nathanwkwong
+
 Global Game Jam Profile: https://globalgamejam.org/users/nathanw
+
 Technical Writing on Medium: https://medium.com/@wkwong.nathan
